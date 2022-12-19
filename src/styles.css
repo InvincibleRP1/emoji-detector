@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+.App {
+  font-family: "Secular One", sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(199, 199, 199);
+}

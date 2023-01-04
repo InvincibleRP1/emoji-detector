@@ -20,5 +20,5 @@ https://codesandbox.io/s/github/InvincibleRP1/emoji-detector
 
 # Website Link
 
-https://csb-92v6uk.netlify.app/
+https://emoji-detector-rp.netlify.app/
 
